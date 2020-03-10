@@ -1,4 +1,3 @@
-//4027427   Jul 5, 2013 6:40:47 PM	fuwutu	 122A - Lucky Division	 GNU C++0x	Accepted	15 ms	0 KB
 #include <iostream>
 
 using namespace std;
