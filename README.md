@@ -9,5 +9,5 @@ I'm trying to develop my skills in competitive programming. Here I try to make t
 </p>
 
 ***
-<sub>Check out my [Submission Graph](https://www.stopstalk.com/user/profile/remonhasan) and pray for me for doing best.</sub>
+<sub>Check out my [Submission Graph at Stopstalk](https://www.stopstalk.com/user/profile/remonhasan) and pray for me for doing best.</sub>
 
