@@ -5,7 +5,7 @@
 🎉 Online Judges Problem Solves! 🎉
 </p>
 <p align="center">
-I'm trying to develop my skills in competitive programmng. Here I try to make the practice samples <i>simplest</i> way possible.
+I'm trying to develop my skills in competitive programming. Here I try to make the practice implementations <i>simplest</i> way possible.
 </p>
 
 ***
